@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">our project</string>
+    <string name="title1">All Your</string>
+    <string name="title2">Healthcare Needs</string>
+    <string name="title3">in One Place</string>
+    <string name="signuptitle">Sign Up</string>
+    <string name="button1">Start</string>
+    <string name="firstname">First name</string>
+    <string name="lastname">Surname</string>
+    <string name="phonenumber">Mobile number</string>
+    <string name="creatingpassword">New Password</string>
+    <string name="birthday">Date of birth?</string>
+    <string name="day">Day</string>
+    <string name="month">Month</string>
+    <string name="year">Year</string>
+    <string name="type">Gender:</string>
+    <string name="welcome">Welcome To Roshetaa</string>
+    <string name="typemale">Male</string>
+    <string name="typefemale">Female</string>
+    <string name="button2">Sign Up</string>
+
+
+
+
+</resources>
